@@ -1,0 +1,5 @@
+C:\Users\Ahmed\source\repos\try\try\obj\Debug\try.csproj.AssemblyReference.cache
+C:\Users\Ahmed\source\repos\try\try\obj\Debug\MainWindow.baml
+C:\Users\Ahmed\source\repos\try\try\obj\Debug\Page1.g.cs
+C:\Users\Ahmed\source\repos\try\try\obj\Debug\@try_MarkupCompile.cache
+C:\Users\Ahmed\source\repos\try\try\obj\Debug\@try_MarkupCompile.lref
