@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="goodnessModelStoreContainer" CdmEntityContainer="goodnessEntities">
+    <EntitySetMapping Name="goodtabs">
+      <EntityTypeMapping TypeName="goodnessModel.goodtab">
+        <MappingFragment StoreEntitySet="goodtab">
+          <ScalarProperty Name="username" ColumnName="username" />
+          <ScalarProperty Name="password_" ColumnName="password_" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
